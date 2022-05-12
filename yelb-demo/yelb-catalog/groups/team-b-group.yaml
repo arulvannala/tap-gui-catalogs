@@ -19,7 +19,7 @@ metadata:
   name: kapplegate
 spec:
   profile:
-    displayName: Kris Applegate
-    email: kapplegate@vmware.com
+    displayName: Arul Vannala
+    email: avannala@vmware.com
     picture: https://example.com/staff/jenny-with-party-hat.jpeg
   memberOf: [team-b]
