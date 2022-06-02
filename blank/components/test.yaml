@@ -9,3 +9,4 @@ spec:
   type: service
   lifecycle: development
   owner: default-team
+  system: backstage
