@@ -18,5 +18,3 @@ spec:
   owner: team-a
   system: yelb
   dependsOn: [Component:yelb-appserver]
-  consumesApis:
-    - yelb-app
