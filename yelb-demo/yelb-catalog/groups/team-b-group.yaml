@@ -23,4 +23,3 @@ spec:
     email: avannala@vmware.com
     picture: https://example.com/staff/jenny-with-party-hat.jpeg
   memberOf: [default-team]
-  system: backstage
