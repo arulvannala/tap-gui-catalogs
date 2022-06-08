@@ -12,3 +12,4 @@ spec:
     - ./groups/default-org.yaml
     - ./systems/tap-gui-system.yaml
     - ./domains/tap-gui-domain.yaml
+    - ./components/java-web-app.yaml
