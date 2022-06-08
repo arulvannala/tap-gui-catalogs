@@ -5,6 +5,7 @@ metadata:
   description: A sample catalog for Backstage
   annotations:
     'backstage.io/techdocs-ref': dir:.
+    system: backstage
 spec:
   targets:
     - ./components/tap-gui.yaml
