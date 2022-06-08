@@ -4,6 +4,12 @@ metadata:
   name: spring-sensors-rabbit
   annotations:
     github.com/project-slug: arulvannala/spring-sensors-rabbit
+  tags:
+    - app-accelerator
+    - java
+    - spring
+    - web
+    - tanzu
 spec:
   type: other
   lifecycle: unknown
