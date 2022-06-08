@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spring-sensors-sensor
+  annotations:
+    github.com/project-slug: arulvannala/spring-sensors-sensor
+spec:
+  type: other
+  lifecycle: unknown
+  owner: default-team
