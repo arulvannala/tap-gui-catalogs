@@ -41,4 +41,4 @@ spec:
     system: backstage
     owner: team-b
     type: Developer
-  memberOf: [team-b]
+  memberOf: [default-team]
