@@ -37,4 +37,5 @@ spec:
     displayName: Arul Vannala
     email: avannala@vmware.com
     picture: https://example.com/staff/jenny-with-party-hat.jpeg
+    system: backstage
   memberOf: [team-b]
