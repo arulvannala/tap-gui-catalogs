@@ -39,6 +39,6 @@ spec:
     email: avannala@vmware.com
     picture: https://example.com/staff/jenny-with-party-hat.jpeg
   system: backstage
-  owner: team-b
+  owner: default-team
   type: Developer
   memberOf: [default-team]
