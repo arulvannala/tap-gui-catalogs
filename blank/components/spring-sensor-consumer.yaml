@@ -13,6 +13,6 @@ metadata:
     - tanzu
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: production
   owner: default-team
   system: backstage
