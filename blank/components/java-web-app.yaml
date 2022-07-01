@@ -13,7 +13,6 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
   labels:
     carto.run/workload-name=tanzu-java-web-app'
-  tags:
 spec:
   type: service
   lifecycle: experimental
