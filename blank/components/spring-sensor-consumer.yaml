@@ -4,6 +4,7 @@ metadata:
   name: spring-sensors-rabbit
   annotations:
     github.com/project-slug: arulvannala/spring-sensors-rabbit
+    'backstage.io/techdocs-ref': dir:.
   labels:
     carto.run/workload-name=spring-sensors-consumer-web
   tags:
