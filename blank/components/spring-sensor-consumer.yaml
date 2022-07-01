@@ -14,7 +14,7 @@ metadata:
     - web
     - tanzu
   links:
-    - url: https://admin.example-org.com
+    - url: https://spring-sensors-consumer-web-default.tap-gui.arullab.com/
       title: Admin Dashboard
       icon: dashboard
       type: admin-dashboard
