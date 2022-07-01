@@ -8,7 +8,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-a
+  owner: default-team
   system: tap-gui
   providesApis:
     - tap-gui-package
