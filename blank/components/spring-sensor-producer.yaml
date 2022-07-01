@@ -4,8 +4,9 @@ metadata:
   name: spring-sensors-sensor
   annotations:
     github.com/project-slug: arulvannala/spring-sensors-sensor
+    'backstage.io/kubernetes-label-selector': 'carto.run/workload-name=spring-sensors-producer'
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: default-team
   system: backstage
