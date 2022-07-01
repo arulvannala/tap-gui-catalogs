@@ -5,19 +5,12 @@ metadata:
   annotations:
     github.com/project-slug: arulvannala/spring-sensors-rabbit
     'backstage.io/techdocs-ref': dir:.
-  labels:
-    carto.run/workload-name=spring-sensors-consumer-web
   tags:
     - app-accelerator
     - java
     - spring
     - web
     - tanzu
-  links:
-    - url: https://spring-sensors-consumer-web-default.tap-gui.arullab.com/
-      title: Admin Dashboard
-      icon: dashboard
-      type: admin-dashboard
 spec:
   type: other
   lifecycle: production
