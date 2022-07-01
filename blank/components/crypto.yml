@@ -1,1 +1,19 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: crypto
+  description: crypto application
+  tags:
+    - app-accelerator
+    - java
+    - spring
+    - web
+    - tanzu
+  annotations:
+    'backstage.io/techdocs-ref': dir:.
+    'backstage.io/kubernetes-label-selector': 'carto.run/workload-name=crypto'
+spec:
+  type: service
+  lifecycle: experimental
+  owner: default-team
+  system: backstage
