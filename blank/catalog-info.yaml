@@ -5,6 +5,13 @@ metadata:
   description: A sample catalog for Backstage
   annotations:
     'backstage.io/techdocs-ref': dir:.
+        'backstage.io/kubernetes-label-selector': 'app=backstage'
+spec:
+  type: service
+  lifecycle: experimental
+  owner: defaul-team
+  system: backstage
+  dependsOn: [Component:backstage]
   targets:
     - ./components/tap-gui.yaml
     - ./groups/default-org.yaml
