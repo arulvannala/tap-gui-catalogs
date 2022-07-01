@@ -12,7 +12,7 @@ metadata:
     - web
     - tanzu
 spec:
-  type: other
+  type: service
   lifecycle: production
   owner: default-team
   system: backstage
