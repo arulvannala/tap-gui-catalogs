@@ -4,7 +4,8 @@ metadata:
   name: spring-sensors-rabbit
   annotations:
     github.com/project-slug: arulvannala/spring-sensors-rabbit
-    'backstage.io/kubernetes-label-selector': 'carto.run/workload-name=spring-sensors-consumer-web'
+  labels:
+    carto.run/workload-name=spring-sensors-consumer-web
   tags:
     - app-accelerator
     - java
