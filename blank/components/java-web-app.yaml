@@ -10,8 +10,9 @@ metadata:
     - web
     - tanzu
   annotations:
-    'backstage.io/kubernetes-label-selector': 'carto.run/workload-name=tanzu-java-web-app'
     'backstage.io/techdocs-ref': dir:.
+  labels:
+    carto.run/workload-name=tanzu-java-web-app'
   tags:
 spec:
   type: service
