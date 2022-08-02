@@ -7,6 +7,11 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
     system: backstage
 spec:
+  type: service
+  lifecycle: experimental
+  owner: default-team
+  system: yelb
+  dependsOn: [Component:yelb-db]
   targets:
     - ./components/yelb-ui/yelb-ui.yaml
     - ./components/redis-server/redis-server.yaml
