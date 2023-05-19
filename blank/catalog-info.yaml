@@ -9,7 +9,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: defaul-team
+  owner: default-team
   system: backstage
   dependsOn: [Component:backstage]
   targets:
